@@ -1,15 +1,16 @@
 # Hello, I'm Shubhajit
 <a href="https://www.linkedin.com/in/shubhajit-s"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+[Brief Introduction]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Experienced IT Security Specialist with over 9 years of experience. Skilled in Cybersecurity, Cloud Infrastructure (AWS, Azure), and System & Network Administration. Proficient in technologies like Cisco Meraki, AD/Jumpcloud, and Vulnerability Management tools. Committed to advancing security practices and seeking a dynamic role in a progressive organization. Strong collaborator with a focus on fortifying digital defenses and reducing cyber risks.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+Dedicated to implementing innovative security practices and technologies while seeking opportunities to contribute to a progressive organization. Focused on collaborating with teams to fortify digital defenses and drive the reduction of cyber risks.
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I am eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 3 Analyst or Join Vulnerability Assessment and Penetration Testing (VAPT) L2 Team.
 
+<!--
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
@@ -58,3 +59,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - Detection Lab
 - SOC Automation Project
+-->
