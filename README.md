@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Experienced IT Security Specialist with over 9 years of experience. Skilled in Cybersecurity, Cloud Infrastructure (AWS, Azure), and System & Network Administration. Proficient in technologies like Cisco Meraki, AD/Jumpcloud, and Vulnerability Management tools. Committed to advancing security practices and seeking a dynamic role in a progressive organization. Strong collaborator with a focus on fortifying digital defenses and reducing cyber risks.
+Experienced IT Security Specialist with over 9 years of experience. Skilled in Cybersecurity, Cloud Infrastructure (AWS, Azure), and System & Network Administration. 
 
 ## Objective
 Dedicated to implementing innovative security practices and technologies while seeking opportunities to contribute to a progressive organization. Focused on collaborating with teams to fortify digital defenses and drive the reduction of cyber risks.
